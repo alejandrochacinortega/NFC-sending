@@ -1,0 +1,21 @@
+/Users/omar/Desktop/NITH/Mobile Computing/nfc-share/platforms/android/ant-build/classes.dex : \
+/Users/omar/Desktop/NITH/Mobile Computing/nfc-share/platforms/android/ant-build/classes/com/chariotsolutions/nfc/plugin/NfcPlugin$1.class \
+/Users/omar/Desktop/NITH/Mobile Computing/nfc-share/platforms/android/ant-build/classes/com/chariotsolutions/nfc/plugin/NfcPlugin$2.class \
+/Users/omar/Desktop/NITH/Mobile Computing/nfc-share/platforms/android/ant-build/classes/com/chariotsolutions/nfc/plugin/NfcPlugin$3.class \
+/Users/omar/Desktop/NITH/Mobile Computing/nfc-share/platforms/android/ant-build/classes/com/chariotsolutions/nfc/plugin/NfcPlugin$4.class \
+/Users/omar/Desktop/NITH/Mobile Computing/nfc-share/platforms/android/ant-build/classes/com/chariotsolutions/nfc/plugin/NfcPlugin$5.class \
+/Users/omar/Desktop/NITH/Mobile Computing/nfc-share/platforms/android/ant-build/classes/com/chariotsolutions/nfc/plugin/NfcPlugin$6.class \
+/Users/omar/Desktop/NITH/Mobile Computing/nfc-share/platforms/android/ant-build/classes/com/chariotsolutions/nfc/plugin/NfcPlugin$7.class \
+/Users/omar/Desktop/NITH/Mobile Computing/nfc-share/platforms/android/ant-build/classes/com/chariotsolutions/nfc/plugin/NfcPlugin$8.class \
+/Users/omar/Desktop/NITH/Mobile Computing/nfc-share/platforms/android/ant-build/classes/com/chariotsolutions/nfc/plugin/NfcPlugin$9.class \
+/Users/omar/Desktop/NITH/Mobile Computing/nfc-share/platforms/android/ant-build/classes/com/chariotsolutions/nfc/plugin/NfcPlugin.class \
+/Users/omar/Desktop/NITH/Mobile Computing/nfc-share/platforms/android/ant-build/classes/com/chariotsolutions/nfc/plugin/Util.class \
+/Users/omar/Desktop/NITH/Mobile Computing/nfc-share/platforms/android/ant-build/classes/com/example/nfc/share/BuildConfig.class \
+/Users/omar/Desktop/NITH/Mobile Computing/nfc-share/platforms/android/ant-build/classes/com/example/nfc/share/CordovaApp.class \
+/Users/omar/Desktop/NITH/Mobile Computing/nfc-share/platforms/android/ant-build/classes/com/example/nfc/share/R$attr.class \
+/Users/omar/Desktop/NITH/Mobile Computing/nfc-share/platforms/android/ant-build/classes/com/example/nfc/share/R$drawable.class \
+/Users/omar/Desktop/NITH/Mobile Computing/nfc-share/platforms/android/ant-build/classes/com/example/nfc/share/R$string.class \
+/Users/omar/Desktop/NITH/Mobile Computing/nfc-share/platforms/android/ant-build/classes/com/example/nfc/share/R$xml.class \
+/Users/omar/Desktop/NITH/Mobile Computing/nfc-share/platforms/android/ant-build/classes/com/example/nfc/share/R.class \
+/Users/omar/Desktop/NITH/Mobile Computing/nfc-share/platforms/android/ant-build/classes/org/apache/cordova/api/Dummy.class \
+/Users/omar/Desktop/NITH/Mobile Computing/nfc-share/platforms/android/ant-build/dexedLibs/classes-8587115c5b8c976de5b055946b1dd406.jar \
